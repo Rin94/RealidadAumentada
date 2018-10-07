@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F3049EFE-C0D6-C45C-B133-C374DBD6B74F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/physics.cs">
+    <Files>
+      <File FileName="Assets/scripts/physics.cs" Line="15" Column="11" />
+      <File FileName="Assets/scripts/CubeGenerator.cs" Line="21" Column="29" />
+      <File FileName="Assets/scripts/Rotacion.cs" Line="14" Column="48" />
+      <File FileName="Assets/scripts/movimiento.cs" Line="38" Column="46" />
+      <File FileName="Assets/scripts/RotacionEspacial.cs" Line="30" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.realidadaumentada PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
